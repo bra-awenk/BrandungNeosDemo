@@ -1,0 +1,6 @@
+
+'Neos.Neos:Shortcut':
+  constraints:
+    nodeTypes:
+      'BrandungNeosDemo.Site:Document.HomePage': false
+      'BrandungNeosDemo.Site:Constraint.Document.Restricted': false
